@@ -56,7 +56,7 @@ May knowledge, creativity, and awareness always remain stronger than oppression.
 
 <p align="center">
   <img 
-    src="[https://s8.uupload.ir/files/d48aab86f65e97fac707aee529601766_3amz.jpg](https://s8.uupload.ir/files/d48aab86f65e97fac707aee529601766_3amz.jpg)"
+    src=""
     alt="Mohammad Reza Shah Pahlavi"
     width="350"
   />

@@ -1,68 +1,59 @@
-<h1 align="center">👋 Hi, I'm MR_CHERNOBYL</h1>
+<h1 align="center">Hi, I'm MR_CHERNOBYL</h1>
 <h3 align="center">Software Developer | Reverse Engineer | Game Designer</h3>
 
 <p align="center">
-  <i>Understanding systems deeply — from logic to execution.</i>
+  <i>Engineering systems through logic, structure, and deep understanding.</i>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Professional Overview
 
-- 🧑‍💻 **MR_CHERNOBYL**
-- 🛠 Software developer with both low-level and high-level experience
-- 🔬 Specialized in **Reverse Engineering**
-- 🎮 **Game Designer & Developer**
-- 🧊 **3D Modeler**
-- 🧠 Passionate about how software works under the hood
-- 🧪 Always learning, always improving
+I am a software developer with a strong foundation in both low-level and high-level programming concepts.  
+My work focuses on understanding how systems are built, how they operate internally, and how they can be designed more efficiently.
+
+With experience across multiple programming languages and creative technical fields, I combine analytical thinking with practical execution.
 
 ---
 
-## 🧩 Skills
+## 🛠 Core Competencies
 
-### 💻 Programming Languages
-- C++
-- C#
-- Python
-- JavaScript
+### Programming & Development
+- Proficient in **C++, C#, Python, and JavaScript**
+- Strong understanding of software structure and execution flow
+- Experience in building reliable, maintainable, and scalable code
 
-### 🌐 Web & Backend
-- HTML5
-- CSS3
-- Node.js
+### Web & Backend
+- Solid experience with **HTML, CSS, and Node.js**
+- Ability to design clean and functional web-based systems
+- Focus on performance, clarity, and long-term maintainability
 
----
-
-## 🧪 What I Do
-
-- 🔍 Analyze and reverse complex software systems  
-- 🛠 Build efficient and well-structured applications  
-- 🎮 Design and develop games  
-- 🧊 Create and integrate 3D models  
-- 🧠 Focus on logic, structure, and performance  
+### Specialized Technical Skills
+- **Reverse Engineering** and deep software analysis
+- **Game Design & Development**
+- **3D Modeling** and asset integration
+- Logical system design and performance-oriented thinking
 
 ---
 
-## 🤍 A Note for Iran
+## 🎯 Professional Approach
 
-I stand with the people of Iran in their ongoing struggles and hardships.  
-Behind every line of code is a human being — shaped by history, pain, hope,  
-and the desire for a better future.
+- I believe software should be **understood**, not just used
+- I value clarity, structure, and efficiency over unnecessary complexity
+- I continuously learn, experiment, and refine my skills
+- I approach every project with responsibility and long-term vision
+
+---
+
+## 🤍 A Human Note
+
+Behind this profile is not just a developer,  
+but one voice among **90 million Iranians** who share hope, hardship, and resilience.
+
+We carry the weight of challenges, yet continue to build, learn, and create.  
+Not because it is easy — but because progress has always begun with understanding.
 
 **Woman, Life, Freedom.**
-
----
-
-<p align="center">
-
-![Mohammad Reza Shah Pahlavi](https://upload.wikimedia.org/wikipedia/commons/0/0f/Mohammad_Reza_Pahlavi_1960.jpg)
-
-</p>
-
-<p align="center">
-  <i>Mohammad Reza Shah Pahlavi</i>
-</p>
 
 ---
 

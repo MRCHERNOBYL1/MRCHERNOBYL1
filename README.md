@@ -50,20 +50,18 @@ I stand with the people of Iran in their ongoing struggles and hardships.
 Behind every line of code is a human being — shaped by history, pain, hope,  
 and the desire for a better future.
 
-May knowledge, creativity, and awareness always remain stronger than oppression.
+**Woman, Life, Freedom.**
 
 ---
 
 <p align="center">
-  <img 
-    src=""
-    alt="Mohammad Reza Shah Pahlavi"
-    width="350"
-  />
+
+![Mohammad Reza Shah Pahlavi](https://upload.wikimedia.org/wikipedia/commons/0/0f/Mohammad_Reza_Pahlavi_1960.jpg)
+
 </p>
 
 <p align="center">
-  <i>A woman of free life</i>
+  <i>Mohammad Reza Shah Pahlavi</i>
 </p>
 
 ---

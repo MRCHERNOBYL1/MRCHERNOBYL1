@@ -56,14 +56,14 @@ May knowledge, creativity, and awareness always remain stronger than oppression.
 
 <p align="center">
   <img 
-    src="<a href="https://uupload.ir/view/d48aab86f65e97fac707aee529601766_3amz.jpg" target="_blank"><img src="https://s8.uupload.ir/files/d48aab86f65e97fac707aee529601766_3amz_thumb.jpg" border="0" alt="آپلود عکس" /></a>"
+    src="[https://s8.uupload.ir/files/d48aab86f65e97fac707aee529601766_3amz.jpg](https://s8.uupload.ir/files/d48aab86f65e97fac707aee529601766_3amz.jpg)"
     alt="Mohammad Reza Shah Pahlavi"
     width="350"
   />
 </p>
 
 <p align="center">
-  <i>Mohammad Reza Shah Pahlavi</i>
+  <i>A woman of free life</i>
 </p>
 
 ---
@@ -71,4 +71,5 @@ May knowledge, creativity, and awareness always remain stronger than oppression.
 <p align="center">
   <b>Code is not just written — it is engineered.</b>
 </p>
+
 
